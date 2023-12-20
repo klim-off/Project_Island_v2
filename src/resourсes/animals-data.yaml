@@ -1,0 +1,6 @@
+deer:
+  weight: 300
+  maxOnCage: 20
+  speed: 4
+  enoughAmountOfFood: 50
+  unicode: 🦌
